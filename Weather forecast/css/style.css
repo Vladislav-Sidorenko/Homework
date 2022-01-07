@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+    
+}
+
+.main {
+    width: 832px;
+    height: 547px;
+    background-color: #3399CC;
+    margin:14px;
+    position: relative;
+    border: 14px solid #2B81AC;
+}
+
+
+.main-box{
+    position: absolute;
+    border: 1px solid white;
+    width: 66%;
+    height: 320px;
+    margin: 100px 130px;
+    
+}
+
+.First-line{
+    display: flex;
+    height: 80px;
+    text-align: center;
+    color: white;
+}
+
+.Lisbone {
+    width: 50%;
+    background-color:  #3399CC;
+    border: 1px solid white;
+}
+
+.Paris{
+    width: 25%;
+    background-color:  #33CCCC;
+    border: 1px solid white;
+    
+}
+
+.Belgrade{
+    width: 25%;
+    background-color:  #996699;
+    border: 1px solid white;
+}
+
+p{
+  padding-top: 18px; 
+}
+
+.Second-line{
+    display: flex;
+    height: 80px;
+    text-align: center;
+    color: white;
+}
+
+.Venice{
+    width: 25%;
+    background-color:  #C24747;
+    border: 1px solid white;
+}
+
+.Tel-Aviv{
+    width: 25%;
+    background-color:  #E2674A;
+    border: 1px solid white;
+}
+
+.Kyiv{
+    width: 25%;
+    background-color:  #FFCC66;
+    border: 1px solid white;
+}
+
+.Amsterdam{
+    width: 25%;
+    background-color:  #99CC99;
+    border: 1px solid white;
+}
+
+.Third-line{
+    display: flex;
+    height: 80px;
+    text-align: center;
+    color: white;
+}
+
+.Tokyo{
+    width: 25%;
+    background-color:  #669999;
+    border: 1px solid white;
+    
+}
+
+.San-Francisco {
+    width: 50%;
+    background-color:  #CC6699;
+    border: 1px solid white;
+}
+
+.Sydney{
+    width: 25%;
+    background-color:  #339966;
+    border: 1px solid white;
+}
+
+.Forth-line{
+    display: flex;
+    height: 80px;
+    text-align: center;
+    color: white;
+}
+
+.New-Delhi{
+    width: 100%;
+    background-color:  #666699;
+    border: 1px solid white;
+    
+}
+
+
+

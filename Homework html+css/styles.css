@@ -33,7 +33,8 @@ body {
  }
 
  a:hover {
-     text-decoration: rgb(99, 91, 91);  
+     text-decoration: rgb(218, 28, 28);  
+     color: rgb(218, 28, 28);  
  }
 
 .logo {
