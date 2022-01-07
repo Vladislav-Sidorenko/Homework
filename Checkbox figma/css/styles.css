@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background-color: #4A4F56;
+    color:  #FF8984;
+    text-align: center;
+}
+
+header h1 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    padding-top: 19px;
+    padding-bottom: 4px;  
+}
+
+header p {
+    font-size: 16px;
+    line-height: 19px;  
+    font-weight: 400;
+    padding-bottom: 12px;   
+}
+
+main {
+    padding-top: 20px;
+    background-color: #3B3F45;
+}
+
+.box {
+    display: block;
+    width: 534px;
+    height: 43px;
+    text-align: left;
+    margin: 0 auto;
+    background-color:#7A7593;
+    border-top: 3px solid #7A7593;
+    border-bottom: 3px solid #7A7593;
+} 
+
+label {
+    color: white;
+    width: 100%;
+}
+
+.box.colored {
+    background-color:#88839E;
+    border-top: 3px solid #88839E;
+    border-bottom: 3px solid #88839E;
+}
+
+.big-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.small-text {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+}
+
+[type="checkbox"] {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+[type="checkbox"]:checked + label {
+    color:  #9B96AC;
+    text-decoration:line-through;
+}
+
+.box:hover {
+    content: "";
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    background-color:#625E77;
+}
+
+.box:active{
+    content: "";
+    background-color:#FF8984;
+}
+
+.footer {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color: #FF8984;
+    display: flex;
+    justify-content: center;
+}
+footer p {
+    width: 534px;
+    height: 45px;
+    background-color:#4A4F56;
+    font-size: 18px;
+    line-height: 41px;
+    font-weight: 400; 
+    text-align: center;
+}

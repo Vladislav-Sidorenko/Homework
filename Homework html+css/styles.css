@@ -1,26 +1,26 @@
 body {
-margin: 25px;
-padding: 0;
-font-size: 14px;
-line-height: 24px;
-font-family: "PT Sans Narrow", Arial, sans-serif;
-font-weight: 700;
-color: #fff;
-text-transform: uppercase;
-background-color: #000000;
-background-image: url(https://images.unsplash.com/photo-1517832606299-7ae9b720a186?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFyYmVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
-background-position: top center;
-background-repeat: no-repeat;
+    margin: 25px;
+    padding: 0;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "PT Sans Narrow", Arial, sans-serif;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #000000;
+    background-image: url(https://images.unsplash.com/photo-1517832606299-7ae9b720a186?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFyYmVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+    background-position: top center;
+    background-repeat: no-repeat;
 }
 
 .navigation {
-display: flex;
-flex-direction: row;
-padding: 10px 100px 100px 100px;
-padding-bottom: 10px;
-font-size: 20px;
-justify-content: center;
-justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 100px 100px 100px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    justify-content: center;
+    justify-content: space-between;
 }
 
  a {
@@ -37,8 +37,8 @@ justify-content: space-between;
  }
 
 .logo {
-width: auto;
-float: center;
+    width: auto;
+    float: center;
 }
 
 .about-us, .our-team, .prices, .barberschool {
