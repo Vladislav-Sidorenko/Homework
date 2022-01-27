@@ -116,6 +116,13 @@ i {
 
 }
 
+.read-rec {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 22px;
+}
+
 .read-rec-btn {
     border: 2px solid #6A983C;
     border-radius: 8px;
@@ -124,6 +131,7 @@ i {
     background: #f4f8ec;
     margin-left: 10%;
     margin-top: 100px;
+    margin-bottom: 10%;
 
 }
 
